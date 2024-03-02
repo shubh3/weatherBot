@@ -1,2 +1,1 @@
-# weatherBot
-# weatherBot
+Please refer the attached postman collection
